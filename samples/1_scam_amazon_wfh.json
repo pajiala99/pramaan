@@ -1,0 +1,13 @@
+{
+  "name": "Amazon 'work from home' task job",
+  "kind": "scam",
+  "expected_verdict": "Likely scam",
+  "why": "Asks for a 'refundable registration fee' to a UPI ID (direct fraud indicator in the message) AND uses a gmail recruiter plus an Amazon-lookalike domain (independent sender-identity evidence).",
+  "case": {
+    "message": "Dear Candidate,\n\nGreetings from Amazon India HR Team!\n\nYour profile has been shortlisted from Naukri for the post of Data Entry Executive (Part Time / Work From Home). No interview required - direct joining.\n\nSalary: earn Rs 3,000 to Rs 8,000 per day by completing simple online tasks.\n\nTo activate your employee ID, pay the one-time refundable registration fee of Rs. 499 to our UPI ID amazonhr.jobs@ybl within 24 hours. Seats are limited. Don't worry, the fee is refunded with your first salary.\n\nFor queries contact HR Neha Sharma on WhatsApp only: +91 98765 43210 (no calls please).\nEmail: amazon.hr.recruitment@gmail.com\nWebsite: https://amazon-hr-careers.online\n\nRegards,\nTalent Acquisition Team, Amazon India",
+    "company": "Amazon",
+    "website": "amazon-hr-careers.online",
+    "recruiter_email": "amazon.hr.recruitment@gmail.com",
+    "recruiter_phone": "+91 98765 43210"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Early-stage startup internship via gmail",
+  "kind": "ambiguous",
+  "expected_verdict": "Suspicious",
+  "why": "No money is requested and a real interview is promised, but the recruiter uses a gmail address, offers WhatsApp contact and the company has no verifiable careers page. Risk without a direct fraud indicator = Suspicious, not Likely scam.",
+  "case": {
+    "message": "Hi Rohan,\n\nI'm Priya, co-founder of Nexora Analytics, an early-stage startup in Bengaluru working on retail demand forecasting. We came across your GitHub profile and would love to talk to you about a remote Data Analyst Intern role (6 months, stipend Rs 15,000 per month).\n\nWe're a small team so we don't have a formal careers page yet. If you're interested, please share your resume on WhatsApp at +91 98765 01234 or email us at nexora.hiring@gmail.com, and we'll set up a 30-minute video interview next week.\n\nWebsite: nexora-analytics-labs.in\n\nThanks,\nPriya",
+    "company": "Nexora Analytics",
+    "website": "nexora-analytics-labs.in",
+    "recruiter_email": "nexora.hiring@gmail.com",
+    "recruiter_phone": "+91 98765 01234"
+  }
+}

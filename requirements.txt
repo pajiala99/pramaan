@@ -1,0 +1,5 @@
+anthropic>=1.13
+streamlit>=1.40
+tldextract>=5.1
+python-dotenv>=1.0
+pytest>=8.0

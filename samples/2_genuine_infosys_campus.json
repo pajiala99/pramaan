@@ -1,0 +1,13 @@
+{
+  "name": "Infosys campus offer (Systems Engineer)",
+  "kind": "genuine",
+  "expected_verdict": "Likely genuine",
+  "why": "No payment ask or pressure; the recruiter email and portal are on infosys.com, an official domain registered for decades (two independent trust sources). Needs internet for the registry lookup - offline it falls back to 'Not enough evidence', which is the correct cautious answer.",
+  "case": {
+    "message": "Subject: Offer of Employment - Systems Engineer | Infosys Limited\n\nDear Ananya,\n\nCongratulations! Further to your campus interview on 14 August, we are pleased to offer you the position of Systems Engineer at Infosys Limited, Mysuru Development Centre.\n\nYour annual CTC will be INR 3,60,000. Your joining date and onboarding instructions are available on the candidate portal at https://career.infosys.com. Please complete your profile there by 30 November.\n\nPlease note: Infosys does not charge any fee at any stage of recruitment. If anyone asks you for money in the name of Infosys, please report it to us.\n\nRegards,\nTalent Acquisition, Infosys Limited\ncareers@infosys.com",
+    "company": "Infosys",
+    "website": "infosys.com",
+    "recruiter_email": "careers@infosys.com",
+    "recruiter_phone": ""
+  }
+}

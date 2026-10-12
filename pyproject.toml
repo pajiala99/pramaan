@@ -1,0 +1,9 @@
+[project]
+name = "pramaan"
+version = "0.1.0"
+description = "Recruitment-scam investigation agent (Claude tool use + deterministic verdict rules)"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
