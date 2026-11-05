@@ -1,5 +1,7 @@
 # PRAMAAN — recruitment-scam investigation agent
 
+[![ci](https://github.com/pajiala99/pramaan/actions/workflows/ci.yml/badge.svg)](https://github.com/pajiala99/pramaan/actions/workflows/ci.yml)
+
 *Pramaan (प्रमाण) = evidence / proof.* Homingo Hackathon, Agents track.
 
 Paste a job offer (message or email, plus optional company, website, recruiter email and phone).
