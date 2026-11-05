@@ -153,3 +153,7 @@ pramaan/
 - RDAP coverage varies by TLD. When the registry can't answer, that group is marked *not checked*.
 - Pattern rules are tuned for English/Hinglish Indian job scams.
 - A *Likely genuine* verdict is not a guarantee. Genuine employers never ask candidates to pay.
+
+---
+
+**Hardik Pajiala** · [LinkedIn](https://linkedin.com/in/hardik-pajiala) · [Portfolio](https://pajiala99.github.io) · [GitHub](https://github.com/pajiala99)
