@@ -16,6 +16,10 @@ four verdicts: **Likely genuine · Suspicious · Likely scam · Not enough evide
              (if Claude is unavailable: a fixed playbook calls the same tools)
 ```
 
+![PRAMAAN's verdict on sample 1: Likely scam, with the rule that fired, risk from 3 of 5 sources and each piece of evidence quoted from the offer](docs/verdict-likely-scam.jpg)
+
+*Sample 1 (a fake Amazon work-from-home offer) in offline playbook mode: no API key and no Claude calls. The rulebook names the rule that fired (`R1_CORROBORATED_SCAM`), and every evidence item quotes the line of the offer it came from.*
+
 ## Quick start
 
 ```bash
